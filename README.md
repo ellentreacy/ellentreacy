@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ellentreacy
+- 👀 I’m interested in ALL THINGS URBAN
+- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
